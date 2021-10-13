@@ -29,15 +29,11 @@ You can click the Preview link to take a look at your changes.
 
 # 🛠 Tools and Technologies
 
-## 🗣 Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=dark" alt="Yash's Top Langs" height="200">
-
-[![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
-[![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp) 
 
 
 ## 💻 PC
 [![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
 
-# 📈 Stats
+# Profiles
+Adding Soon......
+Regards
