@@ -11,13 +11,12 @@
 # 👋
 👋 I’m @prakarsh17. <br>
 👀 I'm interested in coding , readingMaths & Nature. <br>
-🌱 I'm currently learning AI/ML, Data Science. <br>
-📖 Learning Computer enginering in academics. <br>
+
 📫 Reach me through my socials ———————————⟶
     </th>
-<!-- - 💞️ I’m looking to collaborate on ...  -->
+ <!-- 💞️ I’m looking to collaborate on ...  -->
 <!--
-yashppawar/yashppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+prakarsh/prakarsh17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
 <th>
