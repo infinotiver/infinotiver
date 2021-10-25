@@ -40,19 +40,17 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/prakarsh17">
-            <img src="https://github-readme-stats.vercel.app/api?username=prakarsh17&hide=issue&show_icons=true&theme=gotham" alt="Prakarsh17's Github Stats" height="160">
-    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakarsh17&theme=onedark&count_private=true&theme=gotham" height=160>
+            <img src="https://github-readme-stats.vercel.app/api?username=prakarsh17&?count_private=true&hide=issue&show_icons=true&theme=tokyonight" alt="Prakarsh17's Github Stats" height="182">
+    	  <img src= https://github-readme-streak-stats.herokuapp.com?user=prakarsh17&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=00FFFF&stroke=DD2727>
         </a>
     </div>
 </p>
 
 <p align="center">
     <a href="https://github.com/prakarsh17">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakarsh17&bg_color=0C1214&color=2AA789&line=2AA790&point=fff&area=2AA789">
+    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakarsh17&bg_color=0C1214&color=00FFFF&line=2AA790&point=fff&area=2AA789">
     </a>
 </p>
-
-# Profiles
 
 
 
