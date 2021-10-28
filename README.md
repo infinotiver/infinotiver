@@ -45,14 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 # 📈 Stats
 
-<p align="center">
-    <div style="display: inline-block;margin: auto;">
-        <a href="https://github.com/prakarsh17">
-            <img src="https://github-readme-stats.vercel.app/api?username=prakarsh17&?count_private=true&hide=issue&show_icons=true&theme=tokyonight" alt="Prakarsh17's Github Stats" height="182">
-    	  <img src= "https://github-readme-streak-stats.herokuapp.com?user=prakarsh17&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=00FFFF&stroke=DD2727">
-        </a>
-    </div>
-</p>
+
 
 <p align="center">
     <a href="https://github.com/prakarsh17">
