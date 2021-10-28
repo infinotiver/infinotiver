@@ -35,8 +35,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 👩‍💻 Languages
+## 👩‍💻 Languages and used platforms
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=aqua"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" ><img src = "https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+
 ## 🌐 Web Browsers
 <img src= "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
 
@@ -46,7 +49,7 @@ You can click the Preview link to take a look at your changes.
     <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/prakarsh17">
             <img src="https://github-readme-stats.vercel.app/api?username=prakarsh17&?count_private=true&hide=issue&show_icons=true&theme=tokyonight" alt="Prakarsh17's Github Stats" height="182">
-    	  <img src= https://github-readme-streak-stats.herokuapp.com?user=prakarsh17&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=00FFFF&stroke=DD2727>
+    	  <img src= "https://github-readme-streak-stats.herokuapp.com?user=prakarsh17&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=00FFFF&stroke=DD2727">
         </a>
     </div>
 </p>
