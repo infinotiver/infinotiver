@@ -25,8 +25,7 @@ You can click the Preview link to take a look at your changes.
 
  Email: pranjal.prakarsh@outlook.com
   <br>
-<a href = "https://discord.com/channels/@me/900993665017737227"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
-<a href = "https://github.com/prakarsh17"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
 </th>
 </tr>
 </table>
@@ -49,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/prakarsh17">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakarsh17&bg_color=0C1214&color=00FFFF&line=2AA790&point=fff&area=2AA789">
+    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakarsh17&bg_color=0C1216&color=00FFFF&line=2AA790&point=fff&area=2AA789">
     </a>
 </p>
 
