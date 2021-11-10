@@ -1,3 +1,8 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="https://github.com/prakarsh17/prakarsh17/blob/main/style.css">
@@ -53,5 +58,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+## ❤ Views and Followers
+<a href="https://github.com/prakarsh17">
+    <img src="https://komarev.com/ghpvc/?username=prakarsh17">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/prakarsh17?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+[prakarsh17]: https://github.com/prakarsh17
