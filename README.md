@@ -47,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Web Browsers
 <img src= "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
 
+
 # 📈 Stats
 
 
@@ -56,7 +57,12 @@ You can click the Preview link to take a look at your changes.
     	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakarsh17&bg_color=0C1216&color=00FFFF&line=2AA790&point=fff&area=2AA789">
     </a>
 </p>
+<details>
+<summary><b> 🏆 Github Profile Trophies </b></summary>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=prakarsh17&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+</details>
 
 ## ❤ Views and Followers
 <a href="https://github.com/prakarsh17">
