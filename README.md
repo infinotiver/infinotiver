@@ -39,18 +39,18 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## 👩‍💻 Languages and used platforms
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=aqua"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" ><img src = "https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh17&layout=compact&theme=dark" alt="Prakarsh17's Top Langs" height="200">
+
 ## 🌐 Web Browsers
 <img src= "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
 
 
 # 📈 Stats
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=aqua"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
+<img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" ><img src = "https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh17&layout=compact&theme=dark" alt="Prakarsh17's Top Langs" height="200">
 [![Sparkline](https://stars.medv.io/prakarsh17/prakarsh17.svg)](https://stars.medv.io/prakarsh17/prakarsh17)
 <p align="center">
     <a href="https://github.com/prakarsh17">
