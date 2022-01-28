@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><b> 🏆 Github Profile Trophies </b></summary>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=prakarsh17&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Prakarsh17's github trophy](https://github-profile-trophy.vercel.app/?username=prakarsh17&row=1)](https://github.com/prakarsh17/prakarsh17)
 
 </details>
 
