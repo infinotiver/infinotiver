@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" ><img src = "https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh17&layout=compact&theme=dark" alt="Prakarsh17's Top Langs" height="200">
-[![Sparkline](https://stars.medv.io/prakarsh17/prakarsh17.svg)](https://stars.medv.io/prakarsh17/prakarsh17)
+
 <p align="center">
     <a href="https://github.com/prakarsh17">
     	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakarsh17&bg_color=0C1216&color=00FFFF&line=2AA790&point=fff&area=2AA789">
