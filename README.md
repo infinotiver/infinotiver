@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakarsh17&label=Profile%20views&color=0e75b6&style=flat" alt="prakarsh17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakarsh17" alt="prakarsh17" /></a> </p>
-
+<!--joke-->
+<h6> Joke </h6>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
