@@ -7,6 +7,78 @@
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 94 Contributions in the Year 2022
+ > 
+> 📦 6.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    35 commits     ███████░░░░░░░░░░░░░░░░░░   30.43% 
+🌆 Daytime    61 commits     █████████████░░░░░░░░░░░░   53.04% 
+🌃 Evening    19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
+Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Thursday     28 commits     ██████░░░░░░░░░░░░░░░░░░░   24.35% 
+Friday       33 commits     ███████░░░░░░░░░░░░░░░░░░   28.7% 
+Saturday     24 commits     █████░░░░░░░░░░░░░░░░░░░░   20.87% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ████████████░░░░░░░░░░░░░   50.0% 
+CSS                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
+
+
+ Last Updated on 05/02/2022 09:31:13 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
