@@ -1,75 +1,36 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi 👋, I'm Prakarsh17</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakarsh17&label=Profile%20views&color=0e75b6&style=flat" alt="prakarsh17" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakarsh17" alt="prakarsh17" /></a> </p>
 
+- 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="https://github.com/prakarsh17/prakarsh17/blob/main/style.css">
-<table>
-  <tr>
-    <th width="50%">
+- 🌱 I’m currently learning **Css , Maths etc**
 
-<!-- ## Hello friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
+- 👨‍💻 All of my projects are available at [https://github.com/prakarsh17](https://github.com/prakarsh17)
 
+- 📝 I regularly write articles on [https://bit.ly/ReadiT](https://bit.ly/ReadiT)
 
-# 👋
-👋 I’m @prakarsh17. <br>
-👀 I'm interested in coding , readingMaths & Nature. <br>
+- 💬 Ask me about **Discord Bots**
 
-📫 Reach me through my socials ———————————⟶
-    </th>
- <!-- 💞️ I’m looking to collaborate on ...  -->
-<!--
-prakarsh/prakarsh17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
-<th>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/https://discord.gg/avpet3NjTE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/avpet3NjTE" height="30" width="40" /></a>
+</p>
 
-# 🔗 Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakarsh17&show_icons=true&locale=en&layout=compact" alt="prakarsh17" /></p>
 
-  <br>
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
-</th>
-</tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakarsh17&show_icons=true&locale=en" alt="prakarsh17" /></p>
 
-# 🛠 Tools and Technologies
-
-
-
-
-
-## 🌐 Web Browsers
-<img src= "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
-
-
-# 📈 Stats
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=aqua"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" ><img src = "https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh17&layout=compact&theme=dark" alt="Prakarsh17's Top Langs" height="200">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarsh17&" alt="prakarsh17" /></p>
 
 <p align="center">
     <a href="https://github.com/prakarsh17">
     	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakarsh17&bg_color=0C1216&color=00FFFF&line=2AA790&point=fff&area=2AA789">
     </a>
 </p>
-<details>
-<summary><b> 🏆 Github Profile Trophies </b></summary>
-  
-[![Prakarsh17's github trophy](https://github-profile-trophy.vercel.app/?username=prakarsh17&row=1)](https://github.com/prakarsh17/prakarsh17)
-
-</details>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## ❤ Views and Followers
-<a href="https://github.com/prakarsh17">
-    <img src="https://komarev.com/ghpvc/?username=prakarsh17">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/prakarsh17?label=Followers&style=social" alt="GitHub Badge"></a>
-
-[prakarsh17]: https://github.com/prakarsh17
