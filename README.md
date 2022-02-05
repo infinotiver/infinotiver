@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakarsh17" alt="prakarsh17" /></a> </p>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
 
 - 🌱 I’m currently learning **Css , Maths etc**
