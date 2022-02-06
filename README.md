@@ -10,13 +10,15 @@
 <img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 94 Contributions in the Year 2022
+> 🏆 108 Contributions in the Year 2022
  > 
-> 📦 6.2 kB Used in GitHub's Storage 
+> 📦 6.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,22 +29,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    35 commits     ███████░░░░░░░░░░░░░░░░░░   30.43% 
-🌆 Daytime    61 commits     █████████████░░░░░░░░░░░░   53.04% 
-🌃 Evening    19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+🌞 Morning    35 commits     ██████░░░░░░░░░░░░░░░░░░░   27.34% 
+🌆 Daytime    69 commits     █████████████░░░░░░░░░░░░   53.91% 
+🌃 Evening    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Thursday     28 commits     ██████░░░░░░░░░░░░░░░░░░░   24.35% 
-Friday       33 commits     ███████░░░░░░░░░░░░░░░░░░   28.7% 
-Saturday     24 commits     █████░░░░░░░░░░░░░░░░░░░░   20.87% 
-Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
+Thursday     28 commits     █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Friday       33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.78% 
+Saturday     36 commits     ███████░░░░░░░░░░░░░░░░░░   28.12% 
+Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 
 ```
 
@@ -56,9 +58,6 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -76,12 +75,8 @@ HTML                     1 repo              ██████░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/02/2022 09:31:13 UTC
+ Last Updated on 06/02/2022 18:42:08 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
