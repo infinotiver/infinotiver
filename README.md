@@ -8,9 +8,7 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
 
@@ -43,15 +41,7 @@
     </a>
 </p>
 <p>
-<a href="https://indiafightscorona.giveindia.org">
-<img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
-</a>
+<h2> Waka Time Stats </h2>
+ <!--START_SECTION:waka-->
 
-Are you considering to support the project by donating to me? Please DON'T!!  
-
-Instead, Help India fight 2nd deadly wave of COVID,  
-Thousands of people are dying in India for lack of Oxygen & COVID related necessary infrastructure.  
-
-Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.   
-Your small help goes a long way. :heart:
-</p>
+<!--END_SECTION:waka-->
