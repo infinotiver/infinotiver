@@ -43,9 +43,7 @@
 <p>
 <h2> Waka Time Stats </h2>
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2056%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,16 +86,20 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 hrs 43 mins       ████████████████████████░   98.92% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  5 hrs 43 mins       ████████████████████████░   98.92% 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Daily stuff              5 hrs 37 mins       ████████████████████████░   97.18% 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -116,5 +118,5 @@ HTML                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 13:58:37 UTC
+ Last Updated on 07/02/2022 18:42:03 UTC
 <!--END_SECTION:waka-->
