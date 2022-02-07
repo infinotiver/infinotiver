@@ -43,5 +43,78 @@
 <p>
 <h2> Waka Time Stats </h2>
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2056%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 117 Contributions in the Year 2022
+ > 
+> 📦 6.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    39 commits     ███████░░░░░░░░░░░░░░░░░░   28.68% 
+🌆 Daytime    70 commits     ████████████░░░░░░░░░░░░░   51.47% 
+🌃 Evening    27 commits     █████░░░░░░░░░░░░░░░░░░░░   19.85% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
+Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+Thursday     28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+Friday       33 commits     ██████░░░░░░░░░░░░░░░░░░░   24.26% 
+Saturday     36 commits     ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ████████████░░░░░░░░░░░░░   50.0% 
+CSS                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
+
+
+ Last Updated on 07/02/2022 13:58:37 UTC
 <!--END_SECTION:waka-->
