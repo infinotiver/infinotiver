@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prakarsh17</h1>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=400&section=header&text=Hi%20Iam%20Prakarsh17!&fontSize=50">
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakarsh17&label=Profile%20views&color=0e75b6&style=flat" alt="prakarsh17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakarsh17" alt="prakarsh17" /></a> </p>
 <!--joke-->
