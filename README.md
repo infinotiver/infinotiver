@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=400&section=header&text=Hi%20Iam%20Prakarsh17!&fontSize=50">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&fontSize=50">
 <h3 align="center">A passionate developer from India</h3>
 
 
