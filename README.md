@@ -41,9 +41,10 @@
     </a>
 </p>
 <p>
-<h2> Waka Time Stats </h2>
+<h2>Time Stats </h2>
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
+
 
 **🐱 My GitHub Data** 
 
