@@ -16,5 +16,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
+          plugin_achievements: yes
+          plugin_habits: yes
+          plugin_code: yes
           config_order: base.header, isocalendar, languages, stars
           token: ${{ secrets.METRICS_TOKEN }}
