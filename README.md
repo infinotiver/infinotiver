@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&fontSize=50">
-<h3 align="center">A passionate developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&desc=A%20Passionate%20developer%20from%20India&fontSize=50&animation=twinkling&type=waving">
+<!--<h3 align="center">A passionate developer from India</h3>-->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakarsh17" alt="prakarsh17" /></a> </p>
+
 <!--joke-->
 <h6> Joke </h6>
 <!-- HTML -->
@@ -120,3 +120,5 @@ HTML                     1 repo              █████░░░░░░�
 
  Last Updated on 20/02/2022 18:42:37 UTC
 <!--END_SECTION:waka-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakarsh17" alt="prakarsh17" /></a> </p>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&descAlignY=75&descAlign=60)
