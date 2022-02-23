@@ -7,7 +7,7 @@
 <h6> Joke </h6>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 
 - 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
