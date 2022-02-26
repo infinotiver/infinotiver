@@ -12,13 +12,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+
+          config_timezone: Asia/Kolkata
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
           plugin_achievements: yes
           plugin_habits: yes
+          plugin_habits_facts: yes
           plugin_code: yes
+          plugin_licenses: yes
           plugin_skyline: yes
           config_order: base.header, isocalendar, languages, stars
           token: ${{ secrets.METRICS_TOKEN }}
