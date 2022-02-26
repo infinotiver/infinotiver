@@ -33,9 +33,7 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">    
 <h2>Time Stats </h2>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1682-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
 
  <!--START_SECTION:waka-->
 
@@ -112,4 +110,4 @@ HTML                     1 repo              █████░░░░░░�
  Last Updated on 23/02/2022 18:43:10 UTC
 <!--END_SECTION:waka-->
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&desc&descAlign=60)
