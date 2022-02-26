@@ -4,12 +4,11 @@
 
 
 <!--joke-->
-<h6> Joke </h6>
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
+<h6> Quote </h6>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&quoteCategory=programming)
 
-
+***
 › 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
 
 › 🌱 I’m currently learning **Css , Maths etc**
