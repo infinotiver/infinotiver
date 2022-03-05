@@ -35,17 +35,17 @@
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
 
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 176 Contributions in the Year 2022
+> 🏆 179 Contributions in the Year 2022
  > 
-> 📦 70.4 kB Used in GitHub's Storage 
+> 📦 94.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -78,16 +78,16 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    25 hrs 53 mins      █████████████████████████   100.0%
+Other                    11 hrs 5 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  25 hrs 53 mins      █████████████████████████   100.0%
+Browser                  11 hrs 5 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Daily stuff              25 hrs 53 mins      █████████████████████████   100.0%
+Daily stuff              11 hrs 5 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  25 hrs 53 mins      █████████████████████████   100.0%
+Windows                  11 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022 18:44:06 UTC
+ Last Updated on 05/03/2022 18:42:43 UTC
 <!--END_SECTION:waka-->
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&desc&descAlign=60)
