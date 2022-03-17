@@ -35,13 +35,13 @@
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
 
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 180 Contributions in the Year 2022
  > 
-> 📦 162.7 kB Used in GitHub's Storage 
+> 📦 168.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,7 +107,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/03/2022 18:45:53 UTC
+ Last Updated on 17/03/2022 18:44:51 UTC
 <!--END_SECTION:waka-->
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&desc&descAlign=60)
