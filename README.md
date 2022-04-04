@@ -35,13 +35,13 @@
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
 
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 185 Contributions in the Year 2022
  > 
-> 📦 259.4 kB Used in GitHub's Storage 
+> 📦 265.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,19 +78,20 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 10 mins       ███████████████████████░░   91.61% 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Python                   4 hrs 1 min         ███████████████████████░░   92.83% 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 27 mins       █████████████████████████   100.0%
+Unknown Project          4 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.0%
+Windows                  4 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +110,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2022 18:44:25 UTC
+ Last Updated on 04/04/2022 18:47:13 UTC
 <!--END_SECTION:waka-->
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&desc&descAlign=60)
