@@ -41,7 +41,7 @@
 
 > 🏆 187 Contributions in the Year 2022
  > 
-> 📦 430.5 kB Used in GitHub's Storage 
+> 📦 442.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,18 +78,16 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   17 mins             ███████████████████████░░   94.03% 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Coding                   10 mins             ██████████████░░░░░░░░░░░   58.33% 
-Unknown Project          7 mins              ██████████░░░░░░░░░░░░░░░   41.67%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -108,7 +106,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 18:47:22 UTC
+ Last Updated on 06/05/2022 18:47:48 UTC
 <!--END_SECTION:waka-->
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&desc&descAlign=60)
