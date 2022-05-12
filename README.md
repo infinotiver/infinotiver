@@ -1,12 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&desc=A%20Passionate%20developer%20from%20India&fontSize=50&animation=twinkling&type=waving">
+<p align=center>
+ <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&desc=A%20Passionate%20developer%20from%20India&fontSize=50&animation=twinkling&type=waving"></p>
 <!--<h3 align="center">A passionate developer from India</h3>-->
 
-
-
 <!--joke-->
-<h6> Quote </h6>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&quoteCategory=programming)
+<h6 > Quote </h6>
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&quoteCategory=programming">
 
 ***
 › 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
