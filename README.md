@@ -111,4 +111,4 @@ HTML                     1 repo              █████░░░░░░�
  Last Updated on 11/05/2022 18:49:00 UTC
 <!--END_SECTION:waka-->
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Thankyou&height=150&fontSize=60&desc=For%20Your%20Time&desc&descAlign=60)
+![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
