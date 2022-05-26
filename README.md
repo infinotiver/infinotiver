@@ -36,13 +36,13 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 189 Contributions in the Year 2022
  > 
-> 📦 556.5 kB Used in GitHub's Storage 
+> 📦 562.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,7 +107,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/05/2022 18:50:04 UTC
+ Last Updated on 26/05/2022 18:51:03 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
