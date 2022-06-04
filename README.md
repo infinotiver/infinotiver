@@ -2,21 +2,18 @@
  <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&desc=A%20Passionate%20developer%20from%20India&fontSize=50&animation=twinkling&type=waving"></p>
 <!--<h3 align="center">A passionate developer from India</h3>-->
 
-<!--joke-->
-
-<h6 > Quote </h6>
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&quoteCategory=programming">
 
 ***
 › 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
 
-› 🌱 I’m currently learning **Css , Maths etc**
+› 🌱 I’m currently learning **Js , CSS , Maths , Science etc.**
 
 › 👨‍💻 All of my projects are available at [https://github.com/prakarsh17](https://github.com/prakarsh17)
 
 › 📝 I regularly write articles on [https://bit.ly/ReadiT](https://bit.ly/ReadiT)
 
-› 💬 Ask me about **Discord Bots** , **Python**
+› 💬 Ask me about **Discord Bots** , **Python** , **Studies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
