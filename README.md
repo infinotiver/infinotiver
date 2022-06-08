@@ -33,13 +33,13 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 205 Contributions in the Year 2022
+> 🏆 206 Contributions in the Year 2022
  > 
-> 📦 635.3 kB Used in GitHub's Storage 
+> 📦 641.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,8 +51,8 @@
 
 ```text
 🌞 Morning    58 commits     ███████░░░░░░░░░░░░░░░░░░   30.53% 
-🌆 Daytime    85 commits     ███████████░░░░░░░░░░░░░░   44.74% 
-🌃 Evening    47 commits     ██████░░░░░░░░░░░░░░░░░░░   24.74% 
+🌆 Daytime    86 commits     ███████████░░░░░░░░░░░░░░   45.26% 
+🌃 Evening    46 commits     ██████░░░░░░░░░░░░░░░░░░░   24.21% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -61,9 +61,9 @@
 ```text
 Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
 Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Wednesday    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Wednesday    26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
 Thursday     39 commits     █████░░░░░░░░░░░░░░░░░░░░   20.53% 
-Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+Friday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
 Saturday     53 commits     ███████░░░░░░░░░░░░░░░░░░   27.89% 
 Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
@@ -104,7 +104,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/06/2022 18:45:43 UTC
+ Last Updated on 08/06/2022 18:46:07 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
