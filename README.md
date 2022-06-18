@@ -33,13 +33,13 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 208 Contributions in the Year 2022
+> 🏆 209 Contributions in the Year 2022
  > 
-> 📦 691.5 kB Used in GitHub's Storage 
+> 📦 697.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,9 +50,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    59 commits     ███████░░░░░░░░░░░░░░░░░░   31.05% 
+🌞 Morning    58 commits     ███████░░░░░░░░░░░░░░░░░░   30.53% 
 🌆 Daytime    87 commits     ███████████░░░░░░░░░░░░░░   45.79% 
-🌃 Evening    44 commits     █████░░░░░░░░░░░░░░░░░░░░   23.16% 
+🌃 Evening    45 commits     ██████░░░░░░░░░░░░░░░░░░░   23.68% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -104,7 +104,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 18:47:40 UTC
+ Last Updated on 18/06/2022 18:44:54 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
