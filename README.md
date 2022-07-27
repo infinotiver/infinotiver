@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/avpet3NjTE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/avpet3NjTE" height="30" width="40" /></a>
+<a href="https://discord.gg/avpet3NjTE" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/900992402356043806.png" alt="https://discord.gg/avpet3NjTE"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
