@@ -31,15 +31,15 @@
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 222 Contributions in the Year 2022
+> 🏆 232 Contributions in the Year 2022
  > 
-> 📦 880.7 kB Used in GitHub's Storage 
+> 📦 1.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,22 +50,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    56 commits     ███████░░░░░░░░░░░░░░░░░░   29.47% 
-🌆 Daytime    93 commits     ████████████░░░░░░░░░░░░░   48.95% 
-🌃 Evening    41 commits     █████░░░░░░░░░░░░░░░░░░░░   21.58% 
+🌞 Morning    57 commits     ███████░░░░░░░░░░░░░░░░░░   28.79% 
+🌆 Daytime    97 commits     ████████████░░░░░░░░░░░░░   48.99% 
+🌃 Evening    44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
-Tuesday      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-Wednesday    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.26% 
-Thursday     42 commits     █████░░░░░░░░░░░░░░░░░░░░   22.11% 
-Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
-Saturday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   21.58% 
-Sunday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.79%
+Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+Tuesday      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+Thursday     43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.72% 
+Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+Saturday     39 commits     █████░░░░░░░░░░░░░░░░░░░░   19.7% 
+Sunday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
@@ -104,7 +104,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 18:49:29 UTC
+ Last Updated on 18/08/2022 18:47:44 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
