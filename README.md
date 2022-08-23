@@ -1,8 +1,10 @@
 <p align=center>
  <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&desc=A%20Passionate%20developer%20from%20India&fontSize=50&animation=twinkling&type=waving"></p>
 <!--<h3 align="center">A passionate developer from India</h3>-->
-
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&quoteCategory=programming">
+<details>
+  <summary>Quote</summary>
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&quoteCategory=programming" align=center>
+ </details>
 
 ***
 › 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
@@ -15,7 +17,7 @@
 
 › 💬 Ask me about **Discord Bots** , **Python** , **Studies**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">☎ Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/avpet3NjTE" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/900992402356043806.png" alt="https://discord.gg/avpet3NjTE"  /></a>
 </p>
@@ -23,13 +25,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
+## My github Metrics
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">    
 <h2>Time Stats </h2>
 
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
-
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2025%20mins-blue)
 
