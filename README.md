@@ -32,13 +32,13 @@
 
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 240 Contributions in the Year 2022
+> 🏆 242 Contributions in the Year 2022
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
@@ -51,17 +51,17 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    57 commits     ███████░░░░░░░░░░░░░░░░░░   27.8% 
+🌞 Morning    55 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
 🌆 Daytime    102 commits    ████████████░░░░░░░░░░░░░   49.76% 
-🌃 Evening    46 commits     █████░░░░░░░░░░░░░░░░░░░░   22.44% 
+🌃 Evening    48 commits     █████░░░░░░░░░░░░░░░░░░░░   23.41% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Monday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
 Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
 Thursday     43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
 Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
@@ -77,16 +77,17 @@ Sunday       11 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   16 mins             ████████████████████░░░░░   79.78% 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.22%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Coding                   20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +106,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2022 18:46:32 UTC
+ Last Updated on 28/08/2022 18:47:48 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
