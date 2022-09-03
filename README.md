@@ -32,7 +32,7 @@
 
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -77,17 +77,17 @@ Sunday       11 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 4 mins         █████████████████████░░░░   86.98% 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
+Python                   1 hr 7 mins         █████████████████████░░░░   87.35% 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.0%
+VS Code                  1 hr 17 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Coding                   1 hr 14 mins        █████████████████████████   100.0%
+Coding                   1 hr 17 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.0%
+Windows                  1 hr 17 mins        █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:49:09 UTC
+ Last Updated on 03/09/2022 18:47:16 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
