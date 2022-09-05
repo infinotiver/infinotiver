@@ -32,9 +32,9 @@
 
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,6 +48,49 @@
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    55 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
+🌆 Daytime    102 commits    ████████████░░░░░░░░░░░░░   49.76% 
+🌃 Evening    48 commits     █████░░░░░░░░░░░░░░░░░░░░   23.41% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
+Thursday     43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
+Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Saturday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Sunday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.37%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   51 mins             ██████████████████████░░░   90.0% 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+🔥 Editors: 
+VS Code                  57 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Coding                   57 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  57 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -63,7 +106,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:46:45 UTC
+ Last Updated on 05/09/2022 18:50:23 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
