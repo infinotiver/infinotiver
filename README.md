@@ -34,7 +34,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,17 +77,17 @@ Sunday       11 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   51 mins             ██████████████████████░░░   90.0% 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Python                   3 mins              ████████████████████████░   95.67% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.0%
+VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Coding                   57 mins             █████████████████████████   100.0%
+Coding                   3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.0%
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:50:23 UTC
+ Last Updated on 06/09/2022 18:50:59 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
