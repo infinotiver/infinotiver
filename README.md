@@ -48,6 +48,48 @@
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    55 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
+🌆 Daytime    102 commits    ████████████░░░░░░░░░░░░░   49.76% 
+🌃 Evening    48 commits     █████░░░░░░░░░░░░░░░░░░░░   23.41% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
+Thursday     43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
+Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Saturday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Sunday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.37%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -63,7 +105,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:55:17 UTC
+ Last Updated on 27/09/2022 19:01:12 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
