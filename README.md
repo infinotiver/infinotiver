@@ -105,7 +105,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 19:03:47 UTC
+ Last Updated on 19/10/2022 19:06:38 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
