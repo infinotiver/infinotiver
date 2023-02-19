@@ -7,7 +7,8 @@
  </details>
 
 ***
-› 🔭 I’m currently working on [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)
+> Currently Studying for Final Examinations
+› 🔭 I’m currently working on ( [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)  ) Stopped
 
 › 🌱 I’m currently learning **Js , CSS , Maths , Science etc.**
 
