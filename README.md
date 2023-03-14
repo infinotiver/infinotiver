@@ -33,7 +33,7 @@
 
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -76,19 +76,19 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      4 mins              ████████████████████░░░░░   80.94 % 
-HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   3 mins              ███████████████████████░░   92.77 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Programming              5 mins              █████████████████████████   100.00 % 
+Coding                   2 mins              █████████████████░░░░░░░░   68.02 % 
+Programming              1 min               ████████░░░░░░░░░░░░░░░░░   31.98 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +106,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2023 18:41:04 UTC
+ Last Updated on 14/03/2023 18:49:09 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
