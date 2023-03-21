@@ -76,19 +76,16 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 mins              ███████████████████████░░   92.77 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Coding                   2 mins              █████████████████░░░░░░░░   68.02 % 
-Programming              1 min               ████████░░░░░░░░░░░░░░░░░   31.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +103,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2023 18:40:54 UTC
+ Last Updated on 21/03/2023 18:38:35 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
