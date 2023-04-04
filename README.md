@@ -33,7 +33,7 @@
 
 ![https://github.com/prakarsh17](https://komarev.com/ghpvc/?username=prakarsh17&style=for-the-badge&color=red)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,16 +76,21 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 16 mins        █████████████████████████   100.00 % 
+Python                   1 hr 16 mins        ███████████████████░░░░░░   74.90 % 
+CSS                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Maths Wizardry COTW      1 hr 16 mins        █████████████████████████   100.00 % 
+Maths Wizardry COTW      1 hr 16 mins        ███████████████████░░░░░░   74.90 % 
+Programming              25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +108,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2023 18:41:20 UTC
+ Last Updated on 04/04/2023 18:37:01 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
