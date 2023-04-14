@@ -41,11 +41,11 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2023
+> 🏆 13 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -76,18 +76,16 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      6 mins              █████████████████████░░░░   83.99 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Programming              7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +103,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prakarsh17/prakarsh17/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2023 18:37:31 UTC
+ Last Updated on 14/04/2023 18:37:12 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
