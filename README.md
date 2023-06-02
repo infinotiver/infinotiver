@@ -1,22 +1,22 @@
-<p align=center>
- <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Prakarsh17!&desc=A%20Passionate%20developer%20from%20India&fontSize=50&animation=twinkling&type=waving"></p>
+
+ <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%27m%20Prakarsh17!&desc=A%20Passionate%20developer%20from%20India&fontSize=50&animation=twinkling&type=waving">
 <!--<h3 align="center">A passionate developer from India</h3>-->
-<details>
-  <summary>Quote</summary>
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&quoteCategory=programming" align=center>
- </details>
 
-***
-> Currently Studying for Final Examinations
-› 🔭 I’m currently working on ( [Discord Bot Tessarect](https://tessarect-website.prakarsh17-coder.repl.co/)  ) Stopped
 
-› 🌱 I’m currently learning **Js , CSS , Maths , Science etc.**
+<hr>
+
+<h2> Currently ~ I'm strategically managing my digital bandwidth to maximize productivity.</h2>
+
+› 🔭 I’m currently working on Nothing
+
+› 🌱 I’m currently learning **C++ , Real Life Studies**
 
 › 👨‍💻 All of my projects are available at [https://github.com/prakarsh17](https://github.com/prakarsh17)
 
-› 📝 I regularly write articles on [https://bit.ly/ReadiT](https://bit.ly/ReadiT)
+› 📝 I regularly write articles on rough pages at my home
 
-› 💬 Ask me about **Discord Bots** , **Python** , **Studies**
+› 💬 Ask me about my boring life
+
 
 <h3 align="left">☎ Connect with me:</h3>
 <p align="left">
