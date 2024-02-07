@@ -20,4 +20,8 @@ jobs:
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
+          plugin_activity: yes
+          plugin_activity_limit: 10
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           token: ${{ secrets.METRICS_TOKEN }}
