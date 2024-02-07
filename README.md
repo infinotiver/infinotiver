@@ -59,6 +59,8 @@ ___
 ![s](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 ![vsc](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakarsh17&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
