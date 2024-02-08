@@ -11,19 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
     steps:
+
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          filename: my-metrics-0.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: prakarsh17
           template: classic
@@ -97,3 +92,7 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          output_action: pull-request-merge
