@@ -20,7 +20,7 @@ jobs:
           output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: prakarsh17
+          user: infinotiver
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
