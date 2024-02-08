@@ -10,9 +10,9 @@
 
 › 🔭 I’m currently working on crafting the future of tech
 
-› 🌱 I’m constantly upgrading my skills in **C++,PY ADVANCED Modules - tkinter, opencv, matplotlib and more, JAVASCRIPT, REAL LIFE STUDIES**
+› 🌱 I’m constantly upgrading my skills in **C++,Python modules - tkinter, opencv, matplotlib and more, JAVASCRIPT, REAL LIFE STUDIES**
 
-› 👨‍💻 Witness my digital creations at [https://github.com/prakarsh17](https://github.com/prakarsh17)
+› 👨‍💻 Witness my digital creations at [https://github.com/infinotiver](https://github.com/infinotiver)
 
 › 📝 I transcribe my digital chronicles on scrolls of bytes
 
@@ -22,10 +22,10 @@
 <p align="center">
 <H4>404 - NOT  FOUND (NON EXISTENT) </H4>
 </p>
-<a href="https://github.com/prakarsh17"><img  src="https://github-readme-stats.vercel.app/api?username=prakarsh17&show_icons=true&theme=dark#gh-dark-mode-only"></a>
+<a href="https://github.com/infinotiver"><img  src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark#gh-dark-mode-only"></a>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prakarsh17&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" /></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh17&theme=dark" alt="My Top Langs">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinotiver&theme=dark" alt="My Top Langs">
 <h3 align="left">Languages and Tools in My Arsenal:</h3>
 
 ![cp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -61,7 +61,7 @@ ___
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakarsh17&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
