@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -14,8 +15,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@main
+      - uses: lowlighter/metrics@latest
         with:
+          filename: my-metrics-0.svg
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
@@ -23,5 +25,11 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create       output_action: pull-request
+  
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: my-metrics.svg
+          output_action: pull-request-merge
+
           token: ${{ secrets.METRICS_TOKEN }}
