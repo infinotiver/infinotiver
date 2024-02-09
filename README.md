@@ -20,7 +20,11 @@
 
 <h3 align="left">🌐 Connect with me in the Cyber Realms:</h3>
 <p align="center">
-<H4>404 - NOT  FOUND (NON EXISTENT) </H4>
+<H4>Join my servers </H4>
+ <ul>
+  <li> https://dsc.gg/cyberlarkhq</li>
+  <li> https://dsc.gg/academia-server</li>
+ </ul>
 </p>
 <a href="https://github.com/infinotiver"><img  src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark#gh-dark-mode-only"></a>
 <br>
