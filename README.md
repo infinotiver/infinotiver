@@ -2,7 +2,7 @@
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Infinotiver!&desc=A%20Passionate%20developer%20from%20Digital%20Odyssey&fontSize=50&animation=twinkling&type=waving" align="center">
 </p>
-<h3 align="center">A code wizard on a quest in the digital realm</h3>
+<h3 align="center">A code wizard on a quest in the digital realm.</h3>
 
 <hr>
 
