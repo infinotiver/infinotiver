@@ -6,10 +6,6 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
-  pull_request:
-    types:
-      - opened
-      - synchronize
 
 jobs:
   update-readme:
@@ -19,16 +15,3 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-      - name: Merge Pull Request
-        uses: actions/github-script@v4
-        with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          script: |
-            const prNumber = context.payload.pull_request.number;
-            const octokit = github.getOctokit(process.env.GITHUB_TOKEN);
-            await octokit.pulls.merge({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: prNumber
-            });
