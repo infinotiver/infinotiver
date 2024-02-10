@@ -16,7 +16,7 @@
 
 › 📝 I transcribe my digital chronicles on scrolls of bytes
 
-› 💬 Ask me about the time I battled the infinite loop dragons
+› 💬 Ask me about the time  python, html,css and c++
 
 <h3 align="left">🌐 Connect with me in the Cyber Realms:</h3>
 <p align="center">
