@@ -67,7 +67,9 @@ ___
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-477-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2039%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-507-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -134,10 +136,10 @@ Windows                  13 hrs 41 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -147,7 +149,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2024 14:16:17 UTC
+ Last Updated on 10/02/2024 18:38:57 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
