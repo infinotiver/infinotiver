@@ -67,6 +67,15 @@ ___
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
+
+```txt
+Other      11 hrs          ██████████████████▒░░░░░░   72.87 %
+CSS        1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Python     1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+HTML       1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Java       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+```
+
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
