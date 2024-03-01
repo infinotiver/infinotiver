@@ -4,31 +4,37 @@
 </p>
 <h3 align="center">A code wizard on a quest in the digital realm.</h3>
 
-<hr>
 
-<h2> Currently ~ Masterfully orchestrating my digital symphony for peak productivity.</h2>
 
-› 🔭 I’m currently working on crafting the future of tech
+```ruby
+class Developer
+    def initialize(name, description)
+        @name = name
+        @description = description
+    end
 
-› 🌱 I’m constantly upgrading my skills in **C++,Python modules - tkinter, opencv, matplotlib and more, JAVASCRIPT, REAL LIFE STUDIES**
+    def introduce
+        "💎 Hi, I'm #{@name}! #{@description}"
+    end
+end
 
-› 👨‍💻 Witness my digital creations at [https://github.com/infinotiver](https://github.com/infinotiver)
+infinotiver = Developer.new("Infinotiver", "A passionate developer from Digital Odyssey")
+puts infinotiver.introduce
 
-› 📝 I transcribe my digital chronicles on scrolls of bytes
+```
 
-› 💬 Ask me about the time  python, html,css and c++
+<h3 align="center">🌐 Connect with me in the Cyber Realms:</h3>
 
-<h3 align="left">🌐 Connect with me in the Cyber Realms:</h3>
-<p align="center">
-<H4>Join my servers </H4>
- <ul>
-  <li> https://dsc.gg/cyberlarkhq</li>
-  <li> https://dsc.gg/academia-server</li>
- </ul>
+<H4 align="center">Join my servers </H4>
+ <p align="center">
+  https://dsc.gg/cyberlarkhq 
+  ∘
+   https://dsc.gg/academia-server
+
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" /></a>
-<h3 align="left">Languages and Tools in My Arsenal:</h3>
+<a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" align="center"></a>
+<h3 align="center">Languages and Tools in My Arsenal:</h3>
 
 ![cp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![c](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
