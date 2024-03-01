@@ -26,10 +26,8 @@
   <li> https://dsc.gg/academia-server</li>
  </ul>
 </p>
-<a href="https://github.com/infinotiver"><img  src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark#gh-dark-mode-only"></a>
-<br>
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" /></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinotiver&theme=dark" alt="My Top Langs">
 <h3 align="left">Languages and Tools in My Arsenal:</h3>
 
 ![cp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
