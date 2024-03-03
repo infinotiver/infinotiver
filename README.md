@@ -4,41 +4,47 @@
 </p>
 <h3 align="center">A code wizard on a quest in the digital realm.</h3>
 
-<hr>
 
-<h2> Currently ~ Masterfully orchestrating my digital symphony for peak productivity.</h2>
 
-› 🔭 I’m currently working on crafting the future of tech
+```ruby
+class Developer
+    def initialize(name, description)
+        @name = name
+        @description = description
+    end
 
-› 🌱 I’m constantly upgrading my skills in **C++,Python modules - tkinter, opencv, matplotlib and more, JAVASCRIPT, REAL LIFE STUDIES**
+    def introduce
+        "💎 Hi, I'm #{@name}! #{@description}"
+    end
+end
 
-› 👨‍💻 Witness my digital creations at [https://github.com/infinotiver](https://github.com/infinotiver)
+infinotiver = Developer.new("Infinotiver", "A passionate developer from Digital Odyssey")
+puts infinotiver.introduce
 
-› 📝 I transcribe my digital chronicles on scrolls of bytes
+```
 
-› 💬 Ask me about the time  python, html,css and c++
+<h3 align="center">🌐 Connect with me in the Cyber Realms:</h3>
 
-<h3 align="left">🌐 Connect with me in the Cyber Realms:</h3>
-<p align="center">
-<H4>Join my servers </H4>
- <ul>
-  <li> https://dsc.gg/cyberlarkhq</li>
-  <li> https://dsc.gg/academia-server</li>
- </ul>
+<H4 align="center">Join my servers </H4>
+ <p align="center">
+  https://dsc.gg/cyberlarkhq 
+  ∘
+   https://dsc.gg/academia-server
+
 </p>
-<a href="https://github.com/infinotiver"><img  src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark#gh-dark-mode-only"></a>
-<br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" /></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinotiver&theme=dark" alt="My Top Langs">
-<h3 align="left">Languages and Tools in My Arsenal:</h3>
 
-![cp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![c](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![h](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![p](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" align="center"></a>
+<h3 align="center">Languages and Tools in My Arsenal:</h3>
+<p style="text-align: center;">
+ 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="cp" align="center">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="c" align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="h" align="center">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js"align="center">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue" alt="p" align="center">
 
-___
+</p>
+
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
