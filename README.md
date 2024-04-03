@@ -73,9 +73,9 @@ ___
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
@@ -116,18 +116,18 @@ Sunday                   125 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    11 hrs 22 mins      ██████████████████░░░░░░░   71.21 % 
-Python                   4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Figma Design             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    12 hrs 6 mins       █████████████████░░░░░░░░   68.66 % 
+Python                   4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Figma Design             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 34 mins      ██████████████████░░░░░░░   72.44 % 
-VS Code                  4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Chrome                   12 hrs 22 mins      ██████████████████░░░░░░░   70.13 % 
+VS Code                  5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
 
 💻 Operating System: 
-Windows                  15 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2024 18:39:16 UTC
+ Last Updated on 03/04/2024 18:56:22 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
