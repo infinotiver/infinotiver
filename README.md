@@ -73,7 +73,7 @@ ___
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -116,18 +116,18 @@ Sunday                   125 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    11 hrs 3 mins       ███████████████████░░░░░░   75.87 % 
-Python                   3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Canva Design             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    11 hrs 2 mins       ████████████████████░░░░░   81.88 % 
+Python                   2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Canva Design             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 7 mins       ███████████████████░░░░░░   76.30 % 
-VS Code                  3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Chrome                   11 hrs 6 mins       █████████████████████░░░░   82.34 % 
+VS Code                  2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 
 💻 Operating System: 
-Windows                  14 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2024 18:38:34 UTC
+ Last Updated on 06/04/2024 18:38:58 UTC
 <!--END_SECTION:waka-->
 
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
