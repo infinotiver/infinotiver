@@ -3,6 +3,8 @@
 </p>
 <h3 align="center">A code wizard on a quest in the digital realm.</h3>
 
+                      
+
 ```ruby
 class Developer
 def initialize(name, description)
@@ -64,12 +66,22 @@ puts infinotiver.introduce
    ![vsc](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
    ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
    
+<details>
+<summary>Github Metrics</summary>
    <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+</details>
 
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<details>
+    <summary>Wakatime Stats</summary>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+</details>
+
 ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
 </div>
