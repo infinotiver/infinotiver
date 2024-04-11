@@ -31,7 +31,7 @@ puts developer.introduce
 </p>
 <div align="center">
    <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" align="center"></a>
-   <h3 align="center">Languages and Tools in My Arsenal:</h3>
+   <h3 align="center">Languages and Tools:</h3>
    
    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
