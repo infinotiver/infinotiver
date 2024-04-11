@@ -79,7 +79,9 @@ puts developer.introduce
 
 <details>
     <summary>Wakatime Stats</summary>
+   
 <!--START_SECTION:waka-->
+   
 ![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
@@ -154,6 +156,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
  Last Updated on 10/04/2024 19:00:30 UTC
+ 
 <!--END_SECTION:waka-->
 
 </details>
