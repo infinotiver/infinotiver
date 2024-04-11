@@ -7,16 +7,19 @@
 
 ```ruby
 class Developer
-def initialize(name, description)
-@name = name
-@description = description
+  def initialize(name, description)
+    @name = name
+    @description = description
+  end
+
+  def introduce
+    " Hi, I'm #{name}! #{description}"
+  end
 end
-def introduce
-"💎 Hi, I'm #{@name}! #{@description}"
-end
-end
-infinotiver = Developer.new("Infinotiver", "A passionate developer from Digital Odyssey")
-puts infinotiver.introduce
+
+developer = Developer.new("Infinotiver", "A passionate developer from Digital Odyssey")
+puts developer.introduce
+
 ```
 
 <h3 align="center">🌐 Connect with me in the Cyber Realms:</h3>
