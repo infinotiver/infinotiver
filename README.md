@@ -4,7 +4,7 @@
 
 
 <h3 align="center">🌐 Connect with me</h3>
-<H4 align="center">Join my servers </H4>
+<H4 align="center">Join my discord servers </H4>
 <p align="center">
    https://dsc.gg/cyberlarkhq 
    ∘
