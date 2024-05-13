@@ -62,9 +62,9 @@
     <summary>Wakatime Stats</summary>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
@@ -105,18 +105,18 @@ Sunday                   167 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 12 mins       █████████████████████░░░░   82.92 % 
-JavaScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    8 hrs 49 mins       █████████████████████░░░░   84.32 % 
+JavaScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 12 mins       █████████████████████░░░░   82.82 % 
-VS Code                  1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Chrome                   8 hrs 48 mins       █████████████████████░░░░   84.23 % 
+VS Code                  1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 
 💻 Operating System: 
-Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2024 18:39:23 UTC
+ Last Updated on 13/05/2024 18:39:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
