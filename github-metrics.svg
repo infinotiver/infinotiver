@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2552" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2535" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.46m added, 3.35m removed
+                                    3.52m added, 3.40m removed
                                 </div>
                             </section>
                             <section>
@@ -408,7 +408,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.2 characters per line of code written</li>
+                        <li>Has approximately 44.0 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -2460,6 +2460,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a2dd7cb</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">infinotiver/infinotiver</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b13becb</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
@@ -2534,295 +2554,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">infinotiver/AIRA</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#46510c7</div>
-                                        <div class="message">Bump requests from 2.31.0 to 2.32.2 (#5)
-
-Bumps [requests](https://github.com/psf/requests) from 2.31.0 to 2.32.2.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/psf/requests/releases"&gt;requests's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v2.32.2&lt;/h2&gt;
-&lt;h2&gt;2.32.2 (2024-05-21)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Deprecations&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To provide a more stable migration for custom HTTPAdapters impacted
-by the CVE changes in 2.32.0, we've renamed &lt;code&gt;_get_connection&lt;/code&gt;
-to
-a new public API, &lt;code&gt;get_connection_with_tls_context&lt;/code&gt;. Existing
-custom
-HTTPAdapters will need to migrate their code to use this new API.
-&lt;code&gt;get_connection&lt;/code&gt; is considered deprecated in all versions of
-Requests&amp;gt;=2.32.0.&lt;/p&gt;
-&lt;p&gt;A minimal (2-line) example has been provided in the linked PR to ease
-migration, but we strongly urge users to evaluate if their custom
-adapter
-is subject to the same issue described in CVE-2024-35195. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6710"&gt;#6710&lt;/a&gt;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v2.32.1&lt;/h2&gt;
-&lt;h2&gt;2.32.1 (2024-05-20)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Bugfixes&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Add missing test certs to the sdist distributed on PyPI.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v2.32.0&lt;/h2&gt;
-&lt;h2&gt;2.32.0 (2024-05-20)&lt;/h2&gt;
-&lt;h2&gt;🐍 PYCON US 2024 EDITION 🐍&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed an issue where setting &lt;code&gt;verify=False&lt;/code&gt; on the first
-request from a
-Session will cause subsequent requests to the &lt;em&gt;same origin&lt;/em&gt; to
-also ignore
-cert verification, regardless of the value of &lt;code&gt;verify&lt;/code&gt;.
-(&lt;a
-href="https://github.com/psf/requests/security/advisories/GHSA-9wx4-h78v-vm56"&gt;https://github.com/psf/requests/security/advisories/GHSA-9wx4-h78v-vm56&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Improvements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;verify=True&lt;/code&gt; now reuses a global SSLContext which should
-improve
-request time variance between first and subsequent requests. It should
-also minimize certificate load time on Windows systems when using a
-Python
-version built with OpenSSL 3.x. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6667"&gt;#6667&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Requests now supports optional use of character detection
-(&lt;code&gt;chardet&lt;/code&gt; or &lt;code&gt;charset_normalizer&lt;/code&gt;) when
-repackaged or vendored.
-This enables &lt;code&gt;pip&lt;/code&gt; and other projects to minimize their
-vendoring
-surface area. The &lt;code&gt;Response.text()&lt;/code&gt; and
-&lt;code&gt;apparent_encoding&lt;/code&gt; APIs
-will default to &lt;code&gt;utf-8&lt;/code&gt; if neither library is present. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6702"&gt;#6702&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Bugfixes&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed bug in length detection where emoji length was incorrectly
-calculated in the request content-length. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6589"&gt;#6589&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed deserialization bug in JSONDecodeError. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6629"&gt;#6629&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed bug where an extra leading &lt;code&gt;/&lt;/code&gt; (path separator)
-could lead
-urllib3 to unnecessarily reparse the request URI. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6644"&gt;#6644&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/psf/requests/blob/main/HISTORY.md"&gt;requests's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;2.32.2 (2024-05-21)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Deprecations&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To provide a more stable migration for custom HTTPAdapters impacted
-by the CVE changes in 2.32.0, we've renamed &lt;code&gt;_get_connection&lt;/code&gt;
-to
-a new public API, &lt;code&gt;get_connection_with_tls_context&lt;/code&gt;. Existing
-custom
-HTTPAdapters will need to migrate their code to use this new API.
-&lt;code&gt;get_connection&lt;/code&gt; is considered deprecated in all versions of
-Requests&amp;gt;=2.32.0.&lt;/p&gt;
-&lt;p&gt;A minimal (2-line) example has been provided in the linked PR to ease
-migration, but we strongly urge users to evaluate if their custom
-adapter
-is subject to the same issue described in CVE-2024-35195. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6710"&gt;#6710&lt;/a&gt;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;2.32.1 (2024-05-20)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Bugfixes&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Add missing test certs to the sdist distributed on PyPI.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;2.32.0 (2024-05-20)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed an issue where setting &lt;code&gt;verify=False&lt;/code&gt; on the first
-request from a
-Session will cause subsequent requests to the &lt;em&gt;same origin&lt;/em&gt; to
-also ignore
-cert verification, regardless of the value of &lt;code&gt;verify&lt;/code&gt;.
-(&lt;a
-href="https://github.com/psf/requests/security/advisories/GHSA-9wx4-h78v-vm56"&gt;https://github.com/psf/requests/security/advisories/GHSA-9wx4-h78v-vm56&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Improvements&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;verify=True&lt;/code&gt; now reuses a global SSLContext which should
-improve
-request time variance between first and subsequent requests. It should
-also minimize certificate load time on Windows systems when using a
-Python
-version built with OpenSSL 3.x. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6667"&gt;#6667&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Requests now supports optional use of character detection
-(&lt;code&gt;chardet&lt;/code&gt; or &lt;code&gt;charset_normalizer&lt;/code&gt;) when
-repackaged or vendored.
-This enables &lt;code&gt;pip&lt;/code&gt; and other projects to minimize their
-vendoring
-surface area. The &lt;code&gt;Response.text()&lt;/code&gt; and
-&lt;code&gt;apparent_encoding&lt;/code&gt; APIs
-will default to &lt;code&gt;utf-8&lt;/code&gt; if neither library is present. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6702"&gt;#6702&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Bugfixes&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed bug in length detection where emoji length was incorrectly
-calculated in the request content-length. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6589"&gt;#6589&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed deserialization bug in JSONDecodeError. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6629"&gt;#6629&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed bug where an extra leading &lt;code&gt;/&lt;/code&gt; (path separator)
-could lead
-urllib3 to unnecessarily reparse the request URI. (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6644"&gt;#6644&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Deprecations&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/88dce9d854797c05d0ff296b70e0430535ef8aaf"&gt;&lt;code&gt;88dce9d&lt;/code&gt;&lt;/a&gt;
-v2.32.2&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/c98e4d133ef29c46a9b68cd783087218a8075e05"&gt;&lt;code&gt;c98e4d1&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/psf/requests/issues/6710"&gt;#6710&lt;/a&gt;
-from nateprewitt/api_rename&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/92075b330a30b9883f466a43d3f7566ab849f91b"&gt;&lt;code&gt;92075b3&lt;/code&gt;&lt;/a&gt;
-Add deprecation warning&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/aa1461b68aa73e2f6ec0e78c8853b635c76fd099"&gt;&lt;code&gt;aa1461b&lt;/code&gt;&lt;/a&gt;
-Move _get_connection to get_connection_with_tls_context&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/970e8cec988421bd43da57350723b05c8ce8dc7e"&gt;&lt;code&gt;970e8ce&lt;/code&gt;&lt;/a&gt;
-v2.32.1&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/d6ebc4a2f1f68b7e355fb7e4dd5ffc0845547f9f"&gt;&lt;code&gt;d6ebc4a&lt;/code&gt;&lt;/a&gt;
-v2.32.0&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/9a40d1277807f0a4f26c9a37eea8ec90faa8aadc"&gt;&lt;code&gt;9a40d12&lt;/code&gt;&lt;/a&gt;
-Avoid reloading root certificates to improve concurrent performance (&lt;a
-href="https://redirect.github.com/psf/requests/issues/6667"&gt;#6667&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/0c030f78d24f29a459dbf39b28b4cc765e2153d7"&gt;&lt;code&gt;0c030f7&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/psf/requests/issues/6702"&gt;#6702&lt;/a&gt;
-from nateprewitt/no_char_detection&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/555b870eb19d497ddb67042645420083ec8efb02"&gt;&lt;code&gt;555b870&lt;/code&gt;&lt;/a&gt;
-Allow character detection dependencies to be optional in post-packaging
-steps&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/psf/requests/commit/d6dded3f00afcf56a7e866cb0732799045301eb0"&gt;&lt;code&gt;d6dded3&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/psf/requests/issues/6700"&gt;#6700&lt;/a&gt;
-from franekmagiera/update-redirect-to-invalid-uri-test&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/psf/requests/compare/v2.31.0...v2.32.2"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=requests&amp;package-manager=pip&amp;previous-version=2.31.0&amp;new-version=2.32.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-You can disable automated security fix PRs for this repo from the
-[Security Alerts
-page](https://github.com/infinotiver/AIRA/network/alerts).
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d8c0b0</div>
-                                        <div class="message">Bump requests from 2.31.0 to 2.32.2
-
-Bumps [requests](https://github.com/psf/requests) from 2.31.0 to 2.32.2.
-- [Release notes](https://github.com/psf/requests/releases)
-- [Changelog](https://github.com/psf/requests/blob/main/HISTORY.md)
-- [Commits](https://github.com/psf/requests/compare/v2.31.0...v2.32.2)
-
----
-updated-dependencies:
-- dependency-name: requests
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2845,7 +2576,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="315.58 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="315.78666666666663 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2867,7 +2598,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4054 times</div>
+                                <div class="text">Repositories have been deployed 4056 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3197,7 +2928,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.20m out of 209m repositories</span>
+                                    <span class="gh">ranked 2.20m out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3320,7 +3051,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.17m out of 209m repositories</span>
+                                    <span class="gh">ranked 3.17m out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -3537,7 +3268,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2024, 23:50:44 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jun 2024, 00:10:57 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
