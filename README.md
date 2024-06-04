@@ -62,7 +62,7 @@
     <summary>Wakatime Stats</summary>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,8 +71,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 1,192 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,18 +105,17 @@ Sunday                   172 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs 32 mins      ███████████████████░░░░░░   77.36 % 
-Python                   3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Other                    13 hrs 1 min        ███████████████████░░░░░░   75.93 % 
+Python                   3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 Figma Design             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 33 mins      ███████████████████░░░░░░   77.50 % 
-VS Code                  3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Chrome                   13 hrs 2 mins       ███████████████████░░░░░░   76.07 % 
+VS Code                  4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
 
 💻 Operating System: 
-Windows                  17 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +135,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 18:42:41 UTC
+ Last Updated on 04/06/2024 18:41:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
