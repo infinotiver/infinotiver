@@ -62,7 +62,7 @@
     <summary>Wakatime Stats</summary>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
@@ -71,6 +71,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,217 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,18 +107,16 @@ Sunday                   172 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    9 hrs 8 mins        █████████████████████░░░░   82.27 % 
-Python                   1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    8 hrs 26 mins       █████████████████████░░░░   83.21 % 
+Python                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 7 mins        █████████████████████░░░░   82.14 % 
-VS Code                  1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Chrome                   8 hrs 25 mins       █████████████████████░░░░   83.17 % 
+VS Code                  1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 
 💻 Operating System: 
-Windows                  11 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2024 18:42:29 UTC
+ Last Updated on 22/06/2024 18:40:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
