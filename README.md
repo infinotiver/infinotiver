@@ -62,9 +62,9 @@
     <summary>Wakatime Stats</summary>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
@@ -105,16 +105,16 @@ Sunday                   172 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs 11 mins      ██████████████████████░░░   89.72 % 
-Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    15 hrs 49 mins      ██████████████████████░░░   87.54 % 
+Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 11 mins      ██████████████████████░░░   89.70 % 
-VS Code                  1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Chrome                   15 hrs 48 mins      ██████████████████████░░░   87.52 % 
+VS Code                  2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 
 💻 Operating System: 
-Windows                  14 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +134,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2024 18:41:38 UTC
+ Last Updated on 25/06/2024 18:42:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
