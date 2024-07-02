@@ -1,8 +1,6 @@
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Infinotiver!&desc=A%20Passionate%20developer%20from%20Digital%20Odyssey&fontSize=50&animation=twinkling&type=waving" align="center">
 </p>
-
-
 <h3 align="center">🌐 Connect with me</h3>
 <H4 align="center">Join my discord servers </H4>
 <p align="center">
@@ -13,6 +11,7 @@
 <div align="center">
    <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" align="center"></a>
    <h3 align="center">Languages and Tools:</h3>
+   <h4>Programming Languages</h4>
    
    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
@@ -20,8 +19,8 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
- 
+   <h4>Tools</h4>
+   
    ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
    ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![choc](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff)
@@ -48,100 +47,21 @@
    ![s](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
    ![vsc](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
    ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+   <details>
+      <summary>Github Metrics</summary>
+      <div align="center">
+         <img src="/github-metrics.svg" alt="Metrics" width="400">
+      </div>
+   </details>
    
-<details>
-<summary>Github Metrics</summary>
-   <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-</details>
-
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<details>
-    <summary>Wakatime Stats</summary>
+   [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2052%20mins-blue)
+   <details>
+      <summary>Wakatime Stats</summary>
+      <!--START_SECTION:waka-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 1,249 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                380 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-🌆 Daytime                1231 commits        █████████████░░░░░░░░░░░░   50.29 % 
-🌃 Evening                837 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Tuesday                  518 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Wednesday                400 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Thursday                 370 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Friday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Saturday                 333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Sunday                   193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    23 hrs 25 mins      ██████████████████████░░░   89.20 % 
-HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-
-🔥 Editors: 
-Chrome                   23 hrs 28 mins      ██████████████████████░░░   89.48 % 
-VS Code                  2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-
-💻 Operating System: 
-Windows                  26 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
-CSS                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
-
-
- Last Updated on 01/07/2024 18:42:31 UTC
-<!--END_SECTION:waka-->
-
-</details>
-
-![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
+      <!--END_SECTION:waka-->
+   </details>
+   
+   ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
 </div>
