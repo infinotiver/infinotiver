@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2918" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2904" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.30m added, 2.16m removed
+                                    116k added, 15.6k removed
                                 </div>
                             </section>
                             <section>
@@ -2614,7 +2614,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="480.08666666666664 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="480.19 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2636,7 +2636,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 5646 times</div>
+                                <div class="text">Repositories have been deployed 5647 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3018,7 +3018,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.23m out of 216m repositories</span>
+                                    <span class="gh">ranked 2.23m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3307,7 +3307,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 2 Aug 2024, 18:00:33
+                            On 2 Aug 2024, 17:56:56
                         </div>
                     </section>
                 </div>
@@ -3317,17 +3317,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            refactor: Update disclaimer section for better readability and clarity
+                            refactor: Update stats for visual appeal and update citations
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1b7c9277</span>
+                            <span class="code">70a4f4ed</span>
                             <span class="code">index.html</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++2</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -3335,14 +3335,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -120,7 +120,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   &lt;a href="htttps://infinotiver.is-a.dev"&gt;&lt;i class="bx bx-globe"&gt;&lt;/i&gt;&lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;div class="disclaimer"&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   Disclaimer: The information provided on this website is for general informational<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   &lt;strong&gt;Disclaimer:&lt;/strong&gt; The information provided on this website is for general informational<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   purposes only. We do not endorse or recommend any specific products or services mentioned in the<br /></span><span class="token prefix unchanged">·</span><span class="token line">   content. It is always advisable to do your own research and exercise caution when implementing any<br /></span><span class="token prefix unchanged">·</span><span class="token line">   cybersecurity practices. We are not responsible for any actions taken based on the information provided</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -80,8 +80,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;div class="middle-text"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">        &lt;!-- &lt;h2&gt;Staying Safe in the Digital World&lt;/h2&gt; --&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">        &lt;div class="stats fade-in"&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">            &lt;span class="emphasis"&gt;Phishing attacks&lt;/span&gt; account for more than 80% of reported security incidents.<br /></span><span class="token prefix deleted">-</span><span class="token line">            &lt;cite&gt;(CSO Online)&lt;/cite&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">            &lt;span class="emphasis"&gt;Phishing attacks&lt;/span&gt; account for more than &lt;span class="emphasis"&gt;80%&lt;/span&gt;* of reported security incidents.<br /></span><span class="token prefix inserted">+</span><span class="token line">            &lt;cite&gt;*Various researches &amp; reports&lt;/cite&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/section&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2024, 10:44:54 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2024, 11:51:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
