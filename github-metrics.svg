@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.12m added, 2.11m removed
+                                    40.9k added, 18.9k removed
                                 </div>
                             </section>
                             <section>
@@ -2577,7 +2577,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="485.9766666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="486.08000000000004 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2599,7 +2599,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 5703 times</div>
+                                <div class="text">Repositories have been deployed 5704 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2981,7 +2981,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.23m out of 214m repositories</span>
+                                    <span class="gh">ranked 2.23m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3270,7 +3270,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 4 Aug 2024, 21:40:55
+                            On 3 Aug 2024, 20:02:08
                         </div>
                     </section>
                 </div>
@@ -3280,14 +3280,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            refactor: Update background color and padding of scrolled navigation bar
+                            add nav bar button
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2c0b31c9</span>
-                            <span class="code">assets/style.css</span>
+                            <span class="code">7323f2b6</span>
+                            <span class="code">index.html</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3298,14 +3298,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -209,7 +209,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">/* Additional styles when scrolled */<br /></span><span class="token prefix unchanged">·</span><span class="token line">.nav-bar.scrolled {<br /></span><span class="token prefix unchanged">·</span><span class="token line">top: 10px;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">background-color: #1f1f1f8c;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">background-color: #1f1f1fbd;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">backdrop-filter: blur(10px);<br /></span><span class="token prefix unchanged">·</span><span class="token line">padding: 12px;<br /></span><span class="token prefix unchanged">·</span><span class="token line">/* Adjusted padding */</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -53,7 +53,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">         &lt;li&gt;#contact&lt;/li&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">      &lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">   &lt;/ul&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   &lt;div class="nav-bar-button"&gt;Support Us&lt;/div&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   &lt;div class="nav-bar-button"&gt;Donate&lt;/div&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   &lt;div class="menu-icon"&gt;&amp;#9776;&lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;div class="header"&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2024, 13:50:07 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2024, 14:47:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
