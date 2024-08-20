@@ -59,7 +59,7 @@
    <details>
       <summary>Wakatime Stats</summary>
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,7 +69,7 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1,455 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,17 +104,17 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 39 mins       ███████████████████████░░   90.84 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    7 hrs 10 mins       ███████████████████████░░   91.45 % 
+CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 39 mins       ███████████████████████░░   90.84 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Chrome                   7 hrs 10 mins       ███████████████████████░░   91.45 % 
+VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 💻 Operating System: 
-Windows                  7 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +134,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:43:30 UTC
+ Last Updated on 20/08/2024 18:43:29 UTC
 <!--END_SECTION:waka-->
    </details>
    
