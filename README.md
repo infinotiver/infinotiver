@@ -69,8 +69,6 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,455 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -104,13 +102,13 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 53 mins       █████████████████████████   100.00 % 
+Other                    4 hrs 47 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 53 mins       █████████████████████████   100.00 % 
+Chrome                   4 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +128,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2024 18:45:40 UTC
+ Last Updated on 28/08/2024 18:43:55 UTC
 <!--END_SECTION:waka-->
    </details>
    
