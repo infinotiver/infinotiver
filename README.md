@@ -59,7 +59,7 @@
    <details>
       <summary>Wakatime Stats</summary>
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,6 +68,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,455 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,14 +104,14 @@ Sunday                   219 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 37 mins      █████████████████████████   99.99 % 
+Other                    13 hrs 32 mins      █████████████████████████   99.99 % 
 Canva Design             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 37 mins      █████████████████████████   100.00 % 
+Chrome                   13 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +131,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2024 18:47:07 UTC
+ Last Updated on 28/09/2024 18:44:44 UTC
 <!--END_SECTION:waka-->
    </details>
    
