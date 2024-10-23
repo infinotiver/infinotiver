@@ -59,6 +59,8 @@
    <details>
       <summary>Wakatime Stats</summary>
       <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
@@ -67,12 +69,50 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
+> 🏆 1,455 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌆 Daytime                1332 commits        ████████████░░░░░░░░░░░░░   49.81 % 
+🌃 Evening                957 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Tuesday                  574 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Wednesday                410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Friday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Sunday                   218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    15 hrs 4 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   15 hrs 4 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  15 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -90,7 +130,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2024 18:47:12 UTC
+ Last Updated on 23/10/2024 18:47:24 UTC
 <!--END_SECTION:waka-->
    </details>
    
