@@ -1,7 +1,7 @@
-<h1>Infinotiver</h1>
+<h1>Hi 👋🏻, I am Pranjal </h1>
 <div>
-   <h3>Languages and Tools:</h3>
-   <h4>Programming Languages</h4>
+   <h2>Languages and Tools:</h2>
+   <h3>Programming Languages</h3>
    
    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
@@ -9,7 +9,7 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-   <h4>Tools</h4>
+   <h3>Tools</h3>
    
    ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
    ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
