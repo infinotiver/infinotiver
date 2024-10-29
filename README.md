@@ -1,16 +1,6 @@
-<p align="center">
-   <img src="https://capsule-render.vercel.app/api?&color=timeGradient&height=400&section=header&text=Hi%20I%20am%20Infinotiver!&desc=A%20Passionate%20developer%20from%20Digital%20Odyssey&fontSize=50&animation=twinkling&type=waving" align="center">
-</p>
-<h3 align="center">🌐 Connect with me</h3>
-<H4 align="center">Join my discord servers </H4>
-<p align="center">
-   https://dsc.gg/cyberlarkhq 
-   ∘
-   https://dsc.gg/academia-server
-</p>
-<div align="center">
-   <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=infinotiver&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&&card_width=500&background=45%2C030812%2C150317" alt="GitHub Streak" align="center"></a>
-   <h3 align="center">Languages and Tools:</h3>
+<h1>Infinotiver</h1>
+<div>
+   <h3>Languages and Tools:</h3>
    <h4>Programming Languages</h4>
    
    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
@@ -38,7 +28,7 @@
    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
    
-   <h3 align="center">Platforms:</h3>
+   <h3>Platforms:</h3>
    
    ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
    ![c](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -49,88 +39,15 @@
    ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
    <details>
       <summary>Github Metrics</summary>
-      <div align="center">
+      <div>
          <img src="/github-metrics.svg" alt="Metrics" width="400">
       </div>
    </details>
    
-   [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=infinotiver&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   
    <details>
       <summary>Wakatime Stats</summary>
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-742%20hrs%2045%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-🌆 Daytime                1332 commits        ████████████░░░░░░░░░░░░░   49.81 % 
-🌃 Evening                957 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  574 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Wednesday                410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Thursday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Friday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Saturday                 365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Sunday                   218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    11 hrs 48 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   11 hrs 48 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  11 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-CSS                      6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
-
-
- Last Updated on 28/10/2024 18:47:56 UTC
-<!--END_SECTION:waka-->
+      <!--END_SECTION:waka-->
    </details>
    
-   ![th](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thank%20For%20Your%20Time&fontAlign=30&fontSize=30&textBg=true)
 </div>
