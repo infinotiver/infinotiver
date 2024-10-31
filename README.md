@@ -47,15 +47,17 @@
    <details>
       <summary>Wakatime Stats</summary>
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,462 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,18 +92,18 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs 42 mins      ████████████████████████░   95.90 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    15 hrs 27 mins      ████████████████████████░   96.28 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 52 mins      ████████████████████████░   96.98 % 
-VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Chrome                   15 hrs 37 mins      ████████████████████████░   97.31 % 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Windows                  14 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +123,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 18:47:54 UTC
+ Last Updated on 31/10/2024 18:48:07 UTC
 <!--END_SECTION:waka-->
    </details>
    
