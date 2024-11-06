@@ -47,15 +47,17 @@
    <details>
       <summary>Wakatime Stats</summary>
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,462 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,18 +92,14 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    25 hrs 47 mins      ████████████████████████░   97.71 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    25 hrs 39 mins      █████████████████████████   99.94 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 57 mins      █████████████████████████   98.36 % 
-VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Chrome                   25 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +119,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 18:46:50 UTC
+ Last Updated on 06/11/2024 18:46:30 UTC
 <!--END_SECTION:waka-->
    </details>
    
