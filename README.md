@@ -47,7 +47,7 @@
    <details>
       <summary>Wakatime Stats</summary>
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,463 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,16 +92,16 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    24 hrs 14 mins      █████████████████████████   99.45 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    27 hrs 10 mins      █████████████████████████   99.51 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 17 mins      █████████████████████████   99.67 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Chrome                   27 hrs 13 mins      █████████████████████████   99.70 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  24 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +121,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 18:51:08 UTC
+ Last Updated on 11/12/2024 18:51:07 UTC
 <!--END_SECTION:waka-->
    </details>
    
