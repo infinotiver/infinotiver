@@ -8,7 +8,6 @@
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
    ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue)
-   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
    <h3>Tools</h3>
    
    ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -30,7 +29,6 @@
    
    <h3>Platforms:</h3>
    
-   ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
    ![c](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
    ![np](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
    ![rp](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
@@ -46,7 +44,10 @@
    
    <details>
       <summary>Wakatime Stats</summary>
+      
       <!--START_SECTION:waka-->
+      
+      
 ![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
