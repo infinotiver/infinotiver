@@ -46,11 +46,7 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-      
-      
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
@@ -58,51 +54,14 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
+> 🏆 1,464 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-🌆 Daytime                1332 commits        ████████████░░░░░░░░░░░░░   49.68 % 
-🌃 Evening                964 commits         █████████░░░░░░░░░░░░░░░░   35.96 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  580 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Wednesday                410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Thursday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Friday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Sunday                   218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    24 hrs 53 mins      █████████████████████████   99.41 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-Chrome                   24 hrs 57 mins      █████████████████████████   99.68 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-
-💻 Operating System: 
-Windows                  25 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +79,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2024 18:50:55 UTC
+ Last Updated on 13/12/2024 18:50:05 UTC
 <!--END_SECTION:waka-->
    </details>
    
