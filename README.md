@@ -46,9 +46,9 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
@@ -89,18 +89,18 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    17 hrs 5 mins       █████████████████████████   98.68 % 
-Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other                    17 hrs 56 mins      █████████████████████████   98.82 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 3 mins       ███████████████████████░░   92.72 % 
-MicrosoftWord            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-AdobeAcrobat             23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Chrome                   15 hrs 52 mins      ██████████████████████░░░   87.44 % 
+MicrosoftWord            1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+AdobeAcrobat             23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  17 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 18:49:28 UTC
+ Last Updated on 19/12/2024 18:46:20 UTC
 <!--END_SECTION:waka-->
    </details>
    
