@@ -46,7 +46,7 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -55,6 +55,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,472 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,18 +91,16 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    19 hrs 52 mins      █████████████████████████   99.16 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    20 hrs 9 mins       █████████████████████████   99.68 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 48 mins      █████████████████████░░░░   83.91 % 
-MicrosoftWord            2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-AdobeAcrobat             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Chrome                   17 hrs 8 mins       █████████████████████░░░░   84.79 % 
+MicrosoftWord            2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+AdobeAcrobat             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Windows                  20 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 18:44:03 UTC
+ Last Updated on 22/12/2024 18:43:50 UTC
 <!--END_SECTION:waka-->
    </details>
    
