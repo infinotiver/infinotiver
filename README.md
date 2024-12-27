@@ -46,9 +46,9 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
@@ -64,45 +64,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-🌆 Daytime                1332 commits        ████████████░░░░░░░░░░░░░   49.52 % 
-🌃 Evening                973 commits         █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  580 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Wednesday                410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Thursday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Friday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Sunday                   218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    25 hrs 7 mins       █████████████████████████   99.99 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Chrome                   23 hrs 40 mins      ████████████████████████░   94.24 % 
-MicrosoftWord            1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-AdobeAcrobat             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-💻 Operating System: 
-Windows                  25 hrs 7 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +81,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:48:21 UTC
+ Last Updated on 27/12/2024 18:45:48 UTC
 <!--END_SECTION:waka-->
    </details>
    
