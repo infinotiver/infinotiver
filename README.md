@@ -46,7 +46,7 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C002%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -55,6 +55,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,16 +91,16 @@ Sunday                   219 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 hrs 12 mins      █████████████████████████   100.00 % 
+Other                    15 hrs 31 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 10 mins      ██████████████████░░░░░░░   73.45 % 
-AdobeAcrobat             2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-MicrosoftWord            1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Spotify                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Chrome                   12 hrs 13 mins      ████████████████████░░░░░   78.80 % 
+AdobeAcrobat             2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+MicrosoftWord            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Spotify                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 💻 Operating System: 
-Windows                  15 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +120,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2025 18:46:23 UTC
+ Last Updated on 25/01/2025 18:43:13 UTC
 <!--END_SECTION:waka-->
    </details>
    
