@@ -46,17 +46,15 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,16 +89,16 @@ Sunday                   219 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 hrs 31 mins      █████████████████████████   100.00 % 
+Other                    14 hrs 19 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 13 mins      ████████████████████░░░░░   78.80 % 
-AdobeAcrobat             2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-MicrosoftWord            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Spotify                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Chrome                   12 hrs 49 mins      ██████████████████████░░░   89.57 % 
+AdobeAcrobat             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Spotify                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+MicrosoftWord            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-Windows                  15 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +118,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 18:43:13 UTC
+ Last Updated on 26/01/2025 18:44:02 UTC
 <!--END_SECTION:waka-->
    </details>
    
