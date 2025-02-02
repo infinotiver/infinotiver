@@ -46,7 +46,7 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,15 +91,15 @@ Sunday                   219 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 hrs 5 mins       █████████████████████████   100.00 % 
+Other                    17 hrs 12 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 38 mins      ███████████████████████░░   90.96 % 
-AdobeAcrobat             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-MicrosoftWord            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Chrome                   15 hrs 24 mins      ██████████████████████░░░   89.51 % 
+AdobeAcrobat             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+MicrosoftWord            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Windows                  16 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:42:54 UTC
+ Last Updated on 02/02/2025 18:44:33 UTC
 <!--END_SECTION:waka-->
    </details>
    
