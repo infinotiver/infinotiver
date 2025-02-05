@@ -46,7 +46,7 @@
       <summary>Wakatime Stats</summary>
       
       <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,8 +55,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,16 +89,16 @@ Sunday                   219 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 27 mins      █████████████████████████   99.94 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    9 hrs 6 mins        █████████████████████████   99.93 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 50 mins       █████████████████████░░░░   84.54 % 
-AdobeAcrobat             1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-MicrosoftWord            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Chrome                   7 hrs 34 mins       █████████████████████░░░░   83.12 % 
+AdobeAcrobat             56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+MicrosoftWord            35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 💻 Operating System: 
-Windows                  10 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +118,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 18:46:34 UTC
+ Last Updated on 05/02/2025 18:47:02 UTC
 <!--END_SECTION:waka-->
    </details>
    
