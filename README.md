@@ -56,8 +56,6 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -91,14 +89,14 @@ Sunday                   214 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 26 mins       █████████████████████████   100.00 % 
+Other                    1 hr 43 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-AdobeAcrobat             2 hrs 25 mins       █████████████████████████   99.11 % 
-MicrosoftWord            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+AdobeAcrobat             1 hr 42 mins        █████████████████████████   98.74 % 
+MicrosoftWord            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +116,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 18:45:08 UTC
+ Last Updated on 02/03/2025 18:47:00 UTC
 <!--END_SECTION:waka-->
    </details>
    
