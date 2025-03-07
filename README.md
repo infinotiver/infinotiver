@@ -1,6 +1,6 @@
 <img src="face-transparent.png" width="200" align="right">
 <h3>Hi, I'm 1NF1N0T1V3R</h3>
-<strong>infinotiver@proton.me</strong>
+Let's connect: <a href="mailto:infinotiver@proton.me">infinotiver@proton.me</a>
 <div>
    <h4>Programming Languages</h4>
    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black">
