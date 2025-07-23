@@ -1,6 +1,15 @@
 <img src="face-transparent.png" width="200" align="right">
 <h3>Hi, I'm 1NF1N0T1V3R</h3>
 Let's connect: <a href="mailto:infinotiver@proton.me">infinotiver@proton.me</a>
+
+<div>
+<h3> Summer of Making </h3>
+<img src="https://summer.hackclub.com/assets/social_card-c7b18a9b.png" width=400>
+   
+Hey! I’m part of this cool event called Hack Club’s Summer of Making — you build stuff, share it, and earn rewards like gadgets and laptops. I’ve already shipped a few projects. You should totally join in too:
+<a href="https://summer.hack.club/ckc">https://summer.hack.club/ckc</a>
+</div>
+
 <div>
    <h4>Programming Languages</h4>
    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black">
