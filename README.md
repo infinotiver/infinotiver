@@ -40,4 +40,8 @@ Hey! I’m part of this cool event called Hack Club’s Summer of Making — you
    <img src="https://img.shields.io/badge/Spyder%20IDE-FFFFFF?style=for-the-badge&logo=spyder%20ide&logoColor=black">
    <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
    <img src="https://img.shields.io/badge/CodeSandbox-FFFFFF?style=for-the-badge&logo=codesandbox&logoColor=black">
+
+   <h4>Hackatime Stats</h4>
+   
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11590&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=default">
 </div>
