@@ -1,47 +1,57 @@
-<img src="face-transparent.png" width="200" align="right">
-<h3>Hi, I'm 1NF1N0T1V3R</h3>
-Let's connect: <a href="mailto:infinotiver@proton.me">infinotiver@proton.me</a>
+<p align="center">
+  <img src="face-transparent.png" width="200" alt="Profile photo" />
+   <h1 align="center"> Hi, I'm 1NF1N0T1V3R 👋🏻</h1>
+</p>
 
-<div>
-<h3> Summer of Making </h3>
-<img src="https://summer.hackclub.com/assets/social_card-c7b18a9b.png" width=400>
-   
-Hey! I’m part of this cool event called Hack Club’s Summer of Making — you build stuff, share it, and earn rewards like gadgets and laptops. I’ve already shipped a few projects. You should totally join in too:
-<a href="https://summer.hack.club/ckc">https://summer.hack.club/ckc</a>
+
+I’m a developer, mostly working on personal projects and learning new technologies. I am eager to learn modern frameworks and skills.
+
+- 🧐 Interested in full-stack development and ethical hacking
+- 🌱 Currently learning: FastAPI, React, Linux and advanced security practices  
+- 📫 Reach me at: [infinotiver@proton.me](mailto:infinotiver@proton.me)  
+- ⚡ Fun fact: Jack of all trades, master of none!
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="50" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="50" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="50" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="50" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="50" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="50" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="50" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="50" />
+
 </div>
 
-<div>
-   <h4>Programming Languages</h4>
-   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black">
-   <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black">
-   <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black">
-   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black"> 
+---
 
-   <h4>Tools</h4>
-   
-   <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black">
-   <img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=black">
-   <img src="https://img.shields.io/badge/Conda-FFFFFF?style=for-the-badge&logo=anaconda&logoColor=black">
-   <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black">
-   <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=OpenCV&logoColor=black">
-   <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=Matplotlib&logoColor=black">
-   <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black">
-   <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black">
-   <img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=TensorFlow&logoColor=black">
-   <img src="https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=Canva&logoColor=black">
-   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">
-   <img src="https://img.shields.io/badge/GitBook-FFFFFF?style=for-the-badge&logo=gitbook&logoColor=black">
-   <img src="https://img.shields.io/badge/GitHub%20Pages-FFFFFF?style=for-the-badge&logo=GitHub%20Pages&logoColor=black">  
-   
-   <h4>Code Editors</h4>
-   
-   <img src="https://img.shields.io/badge/Colab-FFFFFF?style=for-the-badge&logo=googlecolab&logoColor=black">
-   <img src="https://img.shields.io/badge/Replit-FFFFFF?style=for-the-badge&logo=replit&logoColor=black">
-   <img src="https://img.shields.io/badge/Spyder%20IDE-FFFFFF?style=for-the-badge&logo=spyder%20ide&logoColor=black">
-   <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
-   <img src="https://img.shields.io/badge/CodeSandbox-FFFFFF?style=for-the-badge&logo=codesandbox&logoColor=black">
+## 🚀 Summer of Making
 
-   <h4>Hackatime Stats</h4>
-   
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11590&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=default">
+![Summer of Making](https://summer.hackclub.com/assets/social_card-c7b18a9b.png)
+
+I’m part of [Hack Club’s Summer of Making](https://summer.hack.club/ckc) — building cool projects and earning rewards. Check out my projects or join the fun!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark" alt="GitHub stats" width="45%" />
 </div>
+
