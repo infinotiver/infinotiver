@@ -11,6 +11,9 @@ I’m a developer, mostly working on personal projects and learning new technolo
 - 📫 Reach me at: [infinotiver@proton.me](mailto:infinotiver@proton.me)  
 - ⚡ Fun fact: Jack of all trades, master of none!
 
+![Infinotiver's stars](https://img.shields.io/github/stars/infinotiver?style=flat&logo=github&color=%23fff)
+![GitHub followers](https://img.shields.io/github/followers/infinotiver?style=flat&logo=github&color=%23fff)
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -65,4 +68,9 @@ I’m a developer, mostly working on personal projects and learning new technolo
 
 </div>
 
+<div align="center">
+  <h3>Show some ❤️ by starring ⭐ some of the repositories!</h3>
+</div>
+
+[![An image of @infinotiver's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/infinotiver)](https://holopin.io/@infinotiver)
 ![](https://komarev.com/ghpvc/?username=infinotiver&base=1281&style=flat)
