@@ -41,10 +41,19 @@ I’m a developer, mostly working on personal projects and learning new technolo
 ---
 
 ## 🚀 Summer of Making
+<div align="center">
+<a href="https://summer.hack.club/ckc">
+  <img 
+    src="https://summer.hackclub.com/assets/social_card-c7b18a9b.png" 
+    alt="Summer of Making" 
+    style="width:300px; height: auto"
+  />
+</a>
+  
+  I’m part of [Hack Club’s Summer of Making](https://summer.hack.club/ckc) — building cool projects and earning rewards. Check out my projects or join the fun!
 
-![Summer of Making](https://summer.hackclub.com/assets/social_card-c7b18a9b.png)
+</div>
 
-I’m part of [Hack Club’s Summer of Making](https://summer.hack.club/ckc) — building cool projects and earning rewards. Check out my projects or join the fun!
 
 ---
 
@@ -53,5 +62,7 @@ I’m part of [Hack Club’s Summer of Making](https://summer.hack.club/ckc) —
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark" alt="GitHub stats" width="45%" />
+
 </div>
 
+![](https://komarev.com/ghpvc/?username=infinotiver&base=1281&style=flat)
