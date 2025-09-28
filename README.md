@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="face-transparent.png" width="200" alt="Profile photo" />
+  <img src="banner.png" alt="Profile photo" />
    <h1 align="center"> Hi, I'm 1NF1N0T1V3R 👋🏻</h1>
 </p>
 
