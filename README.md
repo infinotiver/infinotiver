@@ -52,6 +52,8 @@ I’m a developer, mostly working on personal projects and learning new technolo
 
 </div>
 
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2052%20mins-blue)
 
@@ -90,6 +92,8 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 10/10/2025 08:54:58 UTC
 <!--END_SECTION:waka-->
+
+---
 
 <div align="center">
   <h3>Show some ❤️ by starring ⭐ some of the repositories!</h3>
