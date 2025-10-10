@@ -62,6 +62,13 @@ I’m a developer, mostly working on personal projects and learning new technolo
 
 </details>
 
+<details>
+  <summary>🐍 Github Metrics</summary>
+  
+  ![Metrics](/github-metrics.svg)
+  
+</details>
+
 ---
 
 <div align="center">
