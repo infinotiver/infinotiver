@@ -46,11 +46,14 @@ I’m a developer, mostly working on personal projects and learning new technolo
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark" alt="GitHub stats"/>
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <h3>Show some ❤️ by starring ⭐ some of the repositories!</h3>
