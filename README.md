@@ -53,6 +53,42 @@ I’m a developer, mostly working on personal projects and learning new technolo
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 365 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+CSS                      7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/infinotiver/infinotiver/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/10/2025 08:54:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
