@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@projects-v2 # (switched as Achievements failing) lowlighter/metrics@latest 
+      - uses: lowlighter/metrics@latest # (switched as Achievements failing) lowlighter/metrics@latest 
         with:
           # Your GitHub token
           # The following scopes are required:
