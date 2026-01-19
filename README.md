@@ -44,15 +44,6 @@ I’m a developer, mostly working on personal projects and learning new technolo
 ---
 
 
-## 📊 GitHub Stats
-
-<div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=infinotiver&show_icons=true&theme=dark" alt="GitHub stats"/>
-
-</div>
-
----
 
 <details>
 <summary>⏰ WakaTime Stats</summary>
