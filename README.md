@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner.png" alt="Profile banner" />
+  <img src="new_banner.png" alt="Profile banner" />
    <h1 align="center"> Hi, I'm Infinotiver 👋🏻</h1>
 </p>
 
 
-I’m a developer, mostly working on personal projects and learning new technologies. I am eager to learn modern frameworks and skills.
+I’m a student, mostly working on personal hobby projects and learning new technologies.
 
 - 🧐 Interested in full-stack development and ethical hacking
 - 🌱 Currently learning: FastAPI, React, Linux and advanced security practices  
