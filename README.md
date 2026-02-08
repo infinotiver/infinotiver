@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Profile photo" />
-   <h1 align="center"> Hi, I'm 1NF1N0T1V3R 👋🏻</h1>
+  <img src="banner.png" alt="Profile banner" />
+   <h1 align="center"> Hi, I'm Infinotiver 👋🏻</h1>
 </p>
 
 
@@ -9,10 +9,6 @@ I’m a developer, mostly working on personal projects and learning new technolo
 - 🧐 Interested in full-stack development and ethical hacking
 - 🌱 Currently learning: FastAPI, React, Linux and advanced security practices  
 - 📫 Reach me at: [infinotiver@proton.me](mailto:infinotiver@proton.me)  
-- ⚡ Fun fact: Jack of all trades, master of none!
-
-![Infinotiver's stars](https://img.shields.io/github/stars/infinotiver?style=flat&logo=github&color=%23fff)
-![GitHub followers](https://img.shields.io/github/followers/infinotiver?style=flat&logo=github&color=%23fff)
 
 ---
 
