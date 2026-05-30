@@ -1,12 +1,10 @@
 ```
-infinotiver@github
-student · frontend · cybersecurity
+1nf1n0t1v3r@github
+student · frontend · cybersec
 ------------------
 os       : windows · linux
 editor   : vscode
 lang     : python · javascript · html · css
-fw       : react · fastapi · flask · tailwind
-tools    : git · docker · linux · mongodb
 mail     : infinotiver@proton.me
 ```
-❤️
+
